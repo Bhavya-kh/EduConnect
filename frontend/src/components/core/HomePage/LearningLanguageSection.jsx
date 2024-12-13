@@ -18,7 +18,7 @@ const LearningLanguageSection = () => {
                 </div>
 
                 <div className='lg:text-center text-richblack-600 mx-auto text-base font-medium lg:w-[70%]'>
-                Unlock versatile tools and expert guidance with Coding Bits, your ultimate resource for mastering any language, step by step.
+                Unlock versatile tools and expert guidance with EduConnect, your ultimate resource for mastering any language, step by step.
                 </div>
 
                 <div className='flex flex-col lg:flex-row items-center justify-center mt-5'>

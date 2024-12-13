@@ -35,7 +35,7 @@ const About = () => {
               whileInView={'show'}
               viewport={{ once: false, amount: 0.1 }}
             > Innovation in Online Education for a brighter future with
-              <HighlightText text={"Coding Bits"} />
+              <HighlightText text={"EduConnect"} />
             </motion.p>
 
             <motion.p
@@ -44,7 +44,7 @@ const About = () => {
               whileInView={'show'}
               viewport={{ once: false, amount: 0.1 }}
               className="mx-auto mt-3 text-center text-base font-medium text-richblack-300 lg:w-[95%]">
-              Coding Bits is at the forefront of driving innovation in online
+              EduConnect is at the forefront of driving innovation in online
               education. We're passionate about creating a brighter future by
               offering cutting-edge courses, offering mentorship,
               and nurturing a vibrant learning community.
@@ -81,10 +81,10 @@ const About = () => {
                 Our Founding Story
               </h1>
               <p className="text-base font-medium text-richblack-300 lg:w-[95%]">
-              Coding Bits is an ISO-certified company founded by Adarsh Kumar Pandey whose vision is to deliver industry-ready learning programs. The services offered include live online courses and tutoring, test preparation, professional development, and career counseling. Practical training in the field of web development, Android development, data structures, algorithms, and full-stack development is also provided.
+              EduConnect is an ISO-certified company founded by Adarsh Kumar Pandey whose vision is to deliver industry-ready learning programs. The services offered include live online courses and tutoring, test preparation, professional development, and career counseling. Practical training in the field of web development, Android development, data structures, algorithms, and full-stack development is also provided.
               </p>
               <p className="text-base font-medium text-richblack-300 lg:w-[95%]">
-              Coding Bits aspires to be the bridge that closes the gap between what quality of education is and what industry expects by providing learners with a learning environment through which they can grow towards self-sufficiency and career growth. They want to help their learners attain professional goals through the development of continuous, work-based skills with practical exposure.
+              EduConnect aspires to be the bridge that closes the gap between what quality of education is and what industry expects by providing learners with a learning environment through which they can grow towards self-sufficiency and career growth. They want to help their learners attain professional goals through the development of continuous, work-based skills with practical exposure.
               </p>
             </motion.div>
 

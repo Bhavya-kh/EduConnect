@@ -15,7 +15,7 @@ const contactDetails = [
     heading: "Visit us",
     description: "Come and say hello at our office HQ.",
     details:
-      "Coding Bits, A-90, Block A, Sector 4, Noida, UP 201301",
+      "EduConnect, A-90, Block A, Sector 4, Noida, UP 201301",
   },
   {
     icon: "IoCall",

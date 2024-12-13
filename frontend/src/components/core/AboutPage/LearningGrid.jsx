@@ -8,7 +8,7 @@ const LearningGridArray = [
     heading: "World-Class Learning for",
     highlightText: "Anyone, Anywhere",
     description:
-      "Coding Bits partners with various universities across country to bring flexible, affordable, job-relevant online learning to individuals",
+      "EduConnect partners with various universities across country to bring flexible, affordable, job-relevant online learning to individuals",
     BtnText: "Learn More",
     BtnLink: "/",
   },

@@ -123,7 +123,7 @@ const Home = () => {
                         className='text-center text-3xl lg:text-4xl font-semibold mt-7  '
                     >
                         Empower Your Future with
-                        <HighlightText text={"Coding Bits"} />
+                        <HighlightText text={"EduConnect"} />
                     </motion.div>
 
                     <motion.div
@@ -263,7 +263,7 @@ const Home = () => {
 
                             <div className='flex flex-col gap-10 w-full lg:w-[40%] items-start'>
                                 <div className='text-[16px]'>
-                                    The modern Coding Bits dictates its own terms. Today, to be a competitive specialist requires more than professional skills.
+                                    The modern EduConnect dictates its own terms. Today, to be a competitive specialist requires more than professional skills.
                                 </div>
                                 <CTAButton active={true} linkto={"/signup"}>
                                     <div>
